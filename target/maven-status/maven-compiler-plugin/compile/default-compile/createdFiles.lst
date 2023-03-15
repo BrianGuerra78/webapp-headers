@@ -1,0 +1,11 @@
+org\bguerra\apiserclet\webapp\headers\controlers\ProductoJsonServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\HoraActualizadaServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\ProductoXlsServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\BuscarProductoServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\DespacharServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\LoginServlet.class
+org\bguerra\apiserclet\webapp\headers\services\ProductoService.class
+org\bguerra\apiserclet\webapp\headers\services\ProductoServiceImpl.class
+org\bguerra\apiserclet\webapp\headers\controlers\CabecerasHttpRequestServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\RedirigirServlet.class
+org\bguerra\apiserclet\webapp\headers\models\Producto.class
